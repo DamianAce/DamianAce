@@ -2,88 +2,57 @@
 <h3 align="center">Full Stack Developer from Nepal</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anil-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DamianAce&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-###  About Me
-- Currently learning **Laravel, React, Node.js, Python**
-- Passionate about **building full-stack web applications**
-- Portfolio: [www.stha-anil.com.np](https://www.stha-anil.com.np)
-- Blogs: [www.stha-anil.com.np/blogs](https://www.stha-anil.com.np/blogs)
-- WebToolNest: [www.webtoolnest.dev](https://webtoolnest.dev/)
-- Email: [anilstha662@gmail.com](mailto:anilstha662@gmail.com)
-- Fun fact: I love coding + learning ethical hacking 
+## 👨‍💻 About Me
+- Full Stack Developer
+- Focused on **Laravel & Web Development**
+- Passionate about building real-world projects
+- Love learning new technologies and improving backend skills
+- Email: **aashubaral123@gmail.com**
 
 ---
 
-###  Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/stha-anil/" target="https://www.linkedin.com/in/stha-anil/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/anil-sudo" target="https://github.com/anil-sud">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:anilstha662@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-</p>
-
----
-
-###  Languages and Tools
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,python,java,react,nodejs,laravel,mongodb,mysql,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,python,java,react,nodejs,laravel,mysql,mongodb,docker,linux,git" />
 </p>
 
+
 ---
-<br />
-<br />
 
-<div>
-    <strong>GitHub Contributions</strong>
-    <p>Latest contributions to open-source projects.</p>
-</div>
-
-<picture 
-    style="
-        width: 100%;
-    ">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake.svg" />
-    <img alt="github-snake" 
-        src="https://raw.githubusercontent.com/anil-sudo/anil-sudo/output/github-snake.svg" 
-        style="
-            width: 100%;
-        "
-    />
-</picture>
-
-<br />
-<br />
-
-###  GitHub Stats
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-sudo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamianAce&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
+## 🚀 Project
+- Hotel Management System (HMS)
 
 ---
 
-###  Featured Projects
--  **E-commerce Website (Laravel + React)**
--  **Blog Platform (PHP + MySQL)**
--  **Portfolio Website**
--  **API-based Web Apps**
+## 🎯 Goals
+- Become a strong Full Stack Developer
+- Master Laravel, APIs, and backend systems
+- Contribute to open-source projects
+- Build scalable real-world applications
 
 ---
 
-###  Goals
--  Become a **Top Full Stack Developer**
--  Contribute to **Open Source**
--  Master **System Design & Backend Scaling**
+## 📫 Contact
+<p align="center">
+  <a href="mailto:aashubaral123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-<p align="center">✨ Keep Learning, Keep Building ✨</p>
+---
+
+<p align="center">
+  ✨ Keep Learning, Keep Building ✨
+</p>
